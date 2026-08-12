@@ -1,0 +1,7 @@
+{
+  "name": "sapeshop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
